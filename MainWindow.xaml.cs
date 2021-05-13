@@ -28,6 +28,8 @@ namespace SimpleDataBinding
         private void textoTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
             textoTextBlock.Text = textoTextBox.Text;
+            // TextBox, textoTextBox_TextChanged()
+
 
         }
     }
